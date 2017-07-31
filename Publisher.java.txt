@@ -20,7 +20,7 @@ public class Publisher {
 
 	public static String str="hello";
 	public static void main(String[] args) {
-		// log the messages
+	//adding this comment
 		logTheMessage();
 
 	}
