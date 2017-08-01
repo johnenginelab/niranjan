@@ -1,0 +1,1 @@
+Subscriber need to be created for fetching the messages from SQS.
